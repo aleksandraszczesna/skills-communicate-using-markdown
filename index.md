@@ -19,7 +19,13 @@ Tekst może być pogrubiony **tak** lub pochylony *tak*. Możesz także tworzyć
 ### Kod w jednym wierszu
 Użyj `backticks` aby wyróżnić kod w jednym wierszu.
 
+### Lista zadań
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 ### Kod w wielu wierszach
 ```python
 def greet():
     print("Hello, World!")
+
